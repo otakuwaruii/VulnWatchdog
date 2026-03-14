@@ -337,7 +337,7 @@
 | [CVE-2025-2304](CVE-2025-2304-Alien0ne_CVE-2025-2304.md) | CVE-2025-2304 - Camaleon CMS 权限提升 (Mass Assignment) | ⚪ 高危 | 13 |
 | [CVE-2025-2304](CVE-2025-2304-CsuriBird_CVE-2025-2304.md) | CVE-2025-2304 - Camaleon CMS 权限提升 (Privilege Escalation) | ⚪ 关键 (Critical) | 13 |
 | [CVE-2025-2304](CVE-2025-2304-MAEN1-prog_maen1-prog.github.io.md) | CVE-2025-2304 - Camaleon CMS Privilege Escalation through Ma... | 🟠 High | 13 |
-| [CVE-2025-2304](CVE-2025-2304-PwnManjaro_CVE-2025-2304.md) | CVE-2025-2304 - Camaleon CMS 特权升级 (Mass Assignment) | ⚪ 高危 | 13 |
+| [CVE-2025-2304](CVE-2025-2304-PwnManjaro_CVE-2025-2304.md) | CVE-2025-2304 - camaleon_cms (RubyGems) Mass Assignment, Pri... | 🔴 Critical (高危) | 13 |
 | [CVE-2025-2304](CVE-2025-2304-d3vn0mi_cve-2025-2304-poc.md) | CVE-2025-2304 - Camaleon CMS 特权升级 (Privilege Escalation), 质量... | 🔴 Critical | 13 |
 | [CVE-2025-2304](CVE-2025-2304-estebanzarate_CVE-2025-2304-Camaleon-CMS-Mass-Assignment-Privilege-Escalation-PoC.md) | CVE-2025-2304 - Camaleon CMS 权限提升 (Privilege Escalation), 质量... | ⚪ 高 | 13 |
 | [CVE-2025-2304](CVE-2025-2304-innocentx0_CVE-2025-2304-POC.md) | CVE-2025-2304 - Camaleon CMS 权限提升 | ⚪ 高 | 13 |

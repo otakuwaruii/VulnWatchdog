@@ -40,7 +40,7 @@
 | [CVE-2024-0582](CVE-2024-0582-kuzeyardabulut_CVE-2024-0582.md) | CVE-2024-0582-Linux Kernel io_uring Use-After-Free | ⚪ 高危 | 4 |
 | [CVE-2024-0582](CVE-2024-0582-ysanatomic_io_uring_LPE-CVE-2024-0582.md) | CVE-2024-0582 - Linux Kernel io_uring Use-After-Free | ⚪ 高危 | 4 |
 | [CVE-2024-0670](CVE-2024-0670-elsevar11_CVE-2024-0670---CheckMK-Agent-Local-Privilege-Escalation-Exploit.md) | CVE-2024-0670 - Checkmk Agent 本地提权 | ⚪ 高危 | 4 |
-| [CVE-2024-0670](CVE-2024-0670-elsevar11_CVE-2024-0670-CheckMK-Agent-Local-Privilege-Escalation-Exploit.md) | CVE-2024-0670 - CheckMK Windows Agent 本地提权 (Local Privilege ... | ⚪ 高危 (High) | 4 |
+| [CVE-2024-0670](CVE-2024-0670-elsevar11_CVE-2024-0670-CheckMK-Agent-Local-Privilege-Escalation-Exploit.md) | CVE-2024-0670 - CheckMK Windows Agent 本地提权 (Local Privilege ... | ⚪ 高 (High) | 4 |
 | [CVE-2024-0670](CVE-2024-0670-magicrc_CVE-2024-0670.md) | CVE-2024-0670 - CheckMK Agent on Windows systems 本地权限提升 (Loc... | ⚪ 高 (High) | 4 |
 | [CVE-2024-0670](CVE-2024-0670-tralsesec_CVE-2024-0670.md) | CVE-2024-0670 - CheckMK Agent 本地权限提升 (Local Privilege Escala... | ⚪ 高 | 4 |
 | [CVE-2024-0684](CVE-2024-0684-Valentin-Metz_writeup_split.md) | CVE-2024-0684-coreutils-堆溢出 | ⚪ 中危 | 2 |
