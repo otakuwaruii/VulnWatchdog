@@ -2647,7 +2647,7 @@
 | [CVE-2025-9043](CVE-2025-9043-Tiger3080_CVE-2025-9043.md) | CVE-2025-9043-Seagate Toolkit-权限提升 | ⚪ 高危 | 1 |
 | [CVE-2025-9074](CVE-2025-9074-3rendil_CVE-2025-9074-POC.md) | CVE-2025-9074 - Docker Desktop 未授权访问, 容器逃逸 | ⚪ 高危 | 15 |
 | [CVE-2025-9074](CVE-2025-9074-BridgerAlderson_CVE-2025-9074-PoC.md) | CVE-2025-9074 - Docker API 远程代码执行 (RCE) | ⚪ 高危 | 15 |
-| [CVE-2025-9074](CVE-2025-9074-OilSeller2001_PoC-for-CVE-2025-9074.md) | CVE-2025-9074 - Docker Engine API Unauthenticated API Access... | 🔴 Critical | 15 |
+| [CVE-2025-9074](CVE-2025-9074-OilSeller2001_PoC-for-CVE-2025-9074.md) | CVE-2025-9074 - Docker Desktop 容器逃逸/API未授权访问 | ⚪ 严重 | 15 |
 | [CVE-2025-9074](CVE-2025-9074-PtechAmanja_CVE-2025-9074-Docker-Desktop-Container-Escape.md) | CVE-2025-9074 - Docker Desktop 容器逃逸 (Container Escape) | 🔴 Critical | 15 |
 | [CVE-2025-9074](CVE-2025-9074-Shaoshi17_-CVE-2025-9074-Docker-Exploit.md) | CVE-2025-9074 - Docker Desktop for Windows / macOS SSRF/未授权访... | ⚪ 致命 (Critical) | 15 |
 | [CVE-2025-9074](CVE-2025-9074-Shaoshi17_CVE-2025-9074-Docker-Exploit.md) | CVE-2025-9074 - Docker Engine (misconfigured API) 远程代码执行 (RC... | ⚪ 严重 (Critical) | 15 |
