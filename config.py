@@ -13,16 +13,16 @@ load_dotenv()
 ENABLE_NOTIFY=True
 
 # 通知类型,目前支持飞书(feishu),其他可参考飞书模板 template/feishu.json
-NOTIFY_TYPE='feishu'
+NOTIFY_TYPE='dingding'
 
 # 是否启用GPT功能进行漏洞分析
-ENABLE_GPT=True
+ENABLE_GPT=False
 
 # GPT模型名称,使用Gemini 2.0 Flash版本
 GPT_MODEL='gemini-2.0-flash'
 
 # 是否启用漏洞信息搜索功能，需启用GPT分析
-ENABLE_SEARCH=True
+ENABLE_SEARCH=False
 
 # 是否启用扩展搜索功能
 ENABLE_EXTENDED=True
