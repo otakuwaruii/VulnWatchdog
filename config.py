@@ -41,7 +41,7 @@ ENABLE_UPDATE_NOTIFY=False
 # 2. GITHUB_TOKEN: GitHub Actions 自动提供的 Token (1000次/小时)
 # 3. 未配置: 使用未认证模式 (60次/小时)
 # 优先级: GH_TOKEN > GITHUB_TOKEN > None
-GITHUB_TOKEN=GH_TOKEN
+GITHUB_TOKEN=None
 
 # 数据库URL
 DB_URL='sqlite:///vulns.db'
